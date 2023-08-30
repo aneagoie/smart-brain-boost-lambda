@@ -12,7 +12,6 @@ import Profile from './components/Profile/Profile';
 import Modal from './components/Modal/Modal';
 import './App.css';
 
-
 const initialState = {
   input: '',
   imageUrl: '',
