@@ -7,4 +7,3 @@ Final project for ZTM course - Advanced
 4. You will need to create your own AWS Lambda http endpoint for the ranking badge to work.
 
 *visist https://zerotomastery.io/ for more*
-
